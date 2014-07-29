@@ -1,0 +1,2 @@
+angular-cancelable-promise
+==========================
